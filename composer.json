@@ -1,6 +1,7 @@
   
 {
     "name": "lbstr-crb/example",
+    "version": "1.0.0",
     "description": "Example - A first example packet",
     "homepage": "https://github.com/lbstr-crb/example",
     "license": "MIT",
@@ -10,9 +11,7 @@
             "email": "lexbgr@gmail.com"
         }
     ],
-     	"require": {
-	"A": "dev-master"
-	},
+     	"require": {},
 	"autoload": {
 
         "psr-4": {
