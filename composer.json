@@ -9,14 +9,12 @@
             "email": "lexbgr@gmail.com"
         }
     ],
-     	"require": {
-        "php": ">=5.4.0"
-    },
+     	"require": {},
 	"autoload": {
 
         "psr-4": {
 
-            "Lbstr\\Example\\": "src/"
+            "Lbstr-crb\\Example\\": "src/"
 
         }
 
@@ -24,7 +22,7 @@
 	"extra": {
     "laravel": {
       "providers": [
-        "Lbstr\\Example\\ExampleServiceProvider"
+        "Lbstr-crb\\Example\\ExampleServiceProvider"
       ],
       "aliases": {
       }
