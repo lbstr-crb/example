@@ -1,0 +1,33 @@
+  
+{
+    "name": "lbstr-crb/example",
+    "description": "Example - A first example packet",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lobster Crabius",
+            "email": "lexbgr@gmail.com"
+        }
+    ],
+     	"require": {
+        "php": ">=5.4.0"
+    },
+	"autoload": {
+
+        "psr-4": {
+
+            "Lbstr\\Example\\": "src/"
+
+        }
+
+    },
+	"extra": {
+    "laravel": {
+      "providers": [
+        "Lbstr\\Example\\ExampleServiceProvider"
+      ],
+      "aliases": {
+      }
+    }
+  }
+}
