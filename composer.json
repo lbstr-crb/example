@@ -1,9 +1,9 @@
   
 {
     "name": "lbstr-crb/example",
-    "version": "1.0.0.",
     "description": "Example - A first example packet",
     "homepage": "https://github.com/lbstr-crb/example",
+    "minimum-stability": "dev",
     "license": "MIT",
     "authors": [
         {
