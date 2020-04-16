@@ -10,7 +10,9 @@
             "email": "lexbgr@gmail.com"
         }
     ],
-     	"require": {},
+     	"require": {
+	"A": "dev-master"
+	},
 	"autoload": {
 
         "psr-4": {
