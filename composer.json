@@ -2,6 +2,7 @@
 {
     "name": "lbstr-crb/example",
     "description": "Example - A first example packet",
+    "homepage": "https://github.com/lbstr-crb/example"
     "license": "MIT",
     "authors": [
         {
